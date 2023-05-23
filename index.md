@@ -9,7 +9,6 @@ Click the link to lab7 repository and click fork botton. By doing this, I create
 
 3. Log into ieng6<br>
 <img width="805" alt="截屏2023-05-22 下午6 17 01" src="https://github.com/qianyupeng1010/labreport4/assets/130001791/aa067694-628c-4ae5-8b4c-916607b8b48a"><br>
-
 Type `ssh cs15lsp23bb@ieng6.ucsd.edu` and press `<enter>`. I did not need to type in password because I already set up SSH keys for ieng6 in lab. By doing this, I am remotely logged into CSE server.<br>
 
 4. Clone your fork of the repository from your Github account<br>
@@ -32,7 +31,6 @@ Recompile the java file by typing `javac -cp .:lib/hamcrest-core-1.3.jar:lib/jun
 8. Commit and push the resulting change to your Github account<br>
 Type `git add ListExamples.java` into terminal and press `<enter>`, this will add my changes to ListExamples.java.<br>
 Type `git commit -m "bug has been fixed"` in to the terminal and press `<enter>`. This will commit the changes with commiter message "bug has been fixed".<br>
-Type 'git push` and press `<enter>`. This will upload local repository contents to remote Github Repository.
+Type `git push` and press `<enter>`. This will upload local repository contents to remote Github Repository.
 
-<img width="447" alt="截屏2023-05-22 下午6 29 10" src="https://github.com/qianyupeng1010/labreport4/assets/130001791/033e52dc-4d68-4311-93ed-b18b5c221590">
-
+<img width="725" alt="截屏2023-05-22 下午9 14 34" src="https://github.com/qianyupeng1010/labreport4/assets/130001791/15ad463b-fe2c-4373-9c18-6cddc0d53e76">
